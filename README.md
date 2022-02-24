@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edhere Michael
-- 👀 I’m interested in Javascript, PHP and all things Cloud
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on MERN/LAMP stack projects
+- 👀 I’m interested in Javascript, PHP, Python and all things Cloud
+- 🌱 I also love UI/UX
+- 💞️ I’m looking to collaborate on MERN/LAMP/Python projects
 - 📫 How to reach me michael.edhere.com.ng
