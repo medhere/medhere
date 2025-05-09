@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Edhere Michael
-- 👀 I’m interested in Javascript, PHP, Python and all things Cloud
-- 🌱 I also love Cyber Security
-- 📫 How to reach me https://medhere.dev
+- 👀 I’m Software Engineer, Solutions Architect, and Linux Enthusiast
+- 📫 Check me out on https://linkedin.com/in/medhere or https://medhere.dev
